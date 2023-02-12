@@ -19,9 +19,6 @@ class Program
 
         Calculation calculation = new Calculation();
         result = calculation.CalculationSystem(tempTrum, tempMetro, tempDay);
-
-
-
         WriteLine($"Сумма туда и обратно > {result} руб.");
     }
 }
