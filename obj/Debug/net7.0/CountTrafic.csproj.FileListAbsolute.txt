@@ -1,0 +1,15 @@
+C:\Users\dkloc\OneDrive\Рабочий стол\CountTrafic\obj\Debug\net7.0\CountTrafic.csproj.AssemblyReference.cache
+C:\Users\dkloc\OneDrive\Рабочий стол\CountTrafic\obj\Debug\net7.0\CountTrafic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkloc\OneDrive\Рабочий стол\CountTrafic\obj\Debug\net7.0\CountTrafic.AssemblyInfoInputs.cache
+C:\Users\dkloc\OneDrive\Рабочий стол\CountTrafic\obj\Debug\net7.0\CountTrafic.AssemblyInfo.cs
+C:\Users\dkloc\OneDrive\Рабочий стол\CountTrafic\obj\Debug\net7.0\CountTrafic.csproj.CoreCompileInputs.cache
+C:\Users\dkloc\OneDrive\Рабочий стол\CountTrafic\bin\Debug\net7.0\CountTrafic.exe
+C:\Users\dkloc\OneDrive\Рабочий стол\CountTrafic\bin\Debug\net7.0\CountTrafic.deps.json
+C:\Users\dkloc\OneDrive\Рабочий стол\CountTrafic\bin\Debug\net7.0\CountTrafic.runtimeconfig.json
+C:\Users\dkloc\OneDrive\Рабочий стол\CountTrafic\bin\Debug\net7.0\CountTrafic.dll
+C:\Users\dkloc\OneDrive\Рабочий стол\CountTrafic\bin\Debug\net7.0\CountTrafic.pdb
+C:\Users\dkloc\OneDrive\Рабочий стол\CountTrafic\obj\Debug\net7.0\CountTrafic.dll
+C:\Users\dkloc\OneDrive\Рабочий стол\CountTrafic\obj\Debug\net7.0\refint\CountTrafic.dll
+C:\Users\dkloc\OneDrive\Рабочий стол\CountTrafic\obj\Debug\net7.0\CountTrafic.pdb
+C:\Users\dkloc\OneDrive\Рабочий стол\CountTrafic\obj\Debug\net7.0\CountTrafic.genruntimeconfig.cache
+C:\Users\dkloc\OneDrive\Рабочий стол\CountTrafic\obj\Debug\net7.0\ref\CountTrafic.dll
