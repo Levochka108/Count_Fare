@@ -1,4 +1,7 @@
-﻿using static System.Console;
+﻿//Hello, this is me first program on C#.
+//It calculates your money for usage transport in RUSSIA.
+
+using static System.Console;
 
 class Program
 {
